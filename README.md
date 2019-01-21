@@ -1,4 +1,4 @@
-# 服务端渲染(SSR)
+# 深入学习Vue SSR服务端渲染 用Nuxt.js打造CNode社区
 
 > SSR意为 server-side rendering（服务端渲染）,目的是为了解决单页面应用的SEO的问题。
 
