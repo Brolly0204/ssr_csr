@@ -312,6 +312,9 @@ html模板设置插值变量
     })
 ```
 
+### 参考源码
+https://github.com/Lwenli1224/ssr_csr
+
 ## 编写通用代码
 
 > "通用"代码 - 即运行在服务器和客户端的代码。由于用例和平台 API 的差异，当运行在不同环境中时，我们的代码将不会完全相同。所以这里我们将会阐述你需要理解的关键事项。
@@ -456,5 +459,7 @@ https://github.com/Lwenli1224/Nuxt.js-CNode/blob/master/nuxt.config.js
 ### Git项目源码(CNode)
 
 https://github.com/Lwenli1224/Nuxt.js-CNode
+
+https://cnodejs.org/api
 
 未完待续 持续更新。。。
